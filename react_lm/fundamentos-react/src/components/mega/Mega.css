@@ -1,0 +1,21 @@
+.spanNumerosSorteados{
+    padding: 8px;
+    background-color: #B9006E;
+    border-radius: 50%;
+    margin: 2px;
+    color: white;
+}
+.Mega h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Mega label{
+    margin-right:10px;
+}
+.Mega input{
+    font-size: 1.4rem;
+    width: 50px;
+}
